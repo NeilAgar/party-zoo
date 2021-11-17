@@ -1,0 +1,5 @@
+# How many players are there? This corresponds to the number of wiimotes connected. (Needs to be 2 - 4)
+controller_count = <CONTROLLER AMOUNT>
+
+# What aspect ratio should it be displayed on (The pixel measurements) EX: [1920, 1080] for 1080p displays
+aspect_ratio = [<WIDTH AMOUNT>, <HEIGHT AMOUNT>]
